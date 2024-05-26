@@ -1,28 +1,28 @@
 /* =======================SET======================= */
-const nameBand = "CUSTOM";
+const nameBand = "ORBITAL";
 
 let nameSongs = [
-  "SCRIBBLE",
-  "TWO MONTHS OFF",
-  "REZ",
-  "CUPS",
-  "JUMBO",
-  "SHUDDER",
-  "DARK & LONG",
-  "BORN SLIPPY .NUXX",
-  "BELLS & CIRCLE",
-  "GET YOUR SHIRT",
-  "TRAPPED",
-  "LOW BURN",
-  "I EXHALE",
-  "IF I RAH",
-  "WHY WHY",
-  "PEARL'S GIRL",
-  "SOLA SISTIM",
-  "KING OF SNAKE",
-  "MOANER",
-  "SPIKEE",
-];
+	"CHIME", /*1*/
+	"BELFAST", /*2*/
+	"HALCYON AND ON AND ON", /*3*/
+	"REMIND", /*4*/
+	"MONDAY", /*5*/
+	"LUSH 3-1", /*6*/
+	"PLANET OF THE SHAPES", /*7*/
+	"DWR BUDR", /*8*/
+	"DOCTOR?", /*9*/
+	"TINY FOLDABLE CITIES", /*10*/
+	"YOU LOT", /*11*/
+	"ONE BIG MOMENT", /*12*/
+	"WAY OUT", /*13*/
+	"THE NEW ABNORMAL", /*14*/
+	"REQUIEM FOR THE PRE-APOCALYPSE", /*15*/
+	"RINGA RINGA", /*16*/
+	"HALCYON", /*17*/
+	"GIRL WITH THE SUN IN HER HEAD", /*18*/
+	"ARE WE HERE?", /*19*/
+	"WHERE IS IT GOING?", /*20*/
+]
 
 /* ================================================= */
 
